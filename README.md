@@ -1,6 +1,7 @@
 # projetAlarmeV2_python
 
-Second version of projetAlarme
+(*running on linux/ubuntu)
+Second version of projetAlarme (*running on linux/ubuntu)
 Raspberry pi GPIO connected alarm system, with email connection, local meteo display via open weather map and GUI
 
 
@@ -23,4 +24,4 @@ datetime
 time
 smtplib
 RPISim
-RPI.GPIO
+RPi.GPIO
