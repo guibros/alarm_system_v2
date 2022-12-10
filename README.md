@@ -9,7 +9,7 @@ GUI in Pygame to arm or disarm an alarm system on a Raspberry Pi. If armed, the 
 |  <img width="400" alt="image" src="https://user-images.githubusercontent.com/116329812/206021657-d931a4e9-bd65-4fd4-acda-9f594e98c1a8.png">   |<img width="398" alt="image" src="https://user-images.githubusercontent.com/116329812/206021743-aa63f056-b5e8-4a22-8292-b595a27fc815.png">     |
 
 
-- Runs on Linux/Ubuntu
+- Runs on Linux/Ubuntu/Raspbian
 
 
 Module: 
